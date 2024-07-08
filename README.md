@@ -1,5 +1,5 @@
 # Competitive-Programming-Profiles
-Here, you can find details about my competitive programming profiles
+Here, you can find details about my Competitive Programming Profiles
 ## Codeforces Profile
 ### Handle : bjjvsrjjt
 ### Max Rating : 1730 (Expert)
